@@ -21,7 +21,9 @@ I work as a ~~web designer~~  front-end developer with UI/UX design skills (fron
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shridoy1)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://fb.com/shakib.al.hasan098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakib.al.hasan098" height="30" width="40" /></a>
 ## ☕ Connect with me!
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shridoy1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shakib.al.hasan098)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_sh_hridoy__07/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/procodershakib)  
 
 
