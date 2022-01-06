@@ -8,7 +8,7 @@
 🖊️ Love to write code  
 </p>
 
-![Profile views](https://gpvc.arturio.dev/shridoy1 alt="shridoy1" )  
+![Profile views](https://gpvc.arturio.dev/shridoy1)  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shridoy1&label=Profile%20views&color=0e75b6&style=flat" alt="shridoy1" /> </p>
 
 I work as a ~~web designer~~  front-end developer with UI/UX design skills (front-end designer). I'm based in Bangladesh. Skills, passion, determination & love for design. I also have a great interest in web design, and in creating a stunning and effective websites. I create pixel-perfect design solutions for businesses looking to improve their online brand strategy.
