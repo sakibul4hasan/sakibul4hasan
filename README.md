@@ -8,7 +8,8 @@
 👨‍💻I am WordPress Developer
 </p>
 
-![Profile views](https://gpvc.arturio.dev/shridoy1)
+![Profile views](https://gpvc.arturio.dev/shridoy1) 
+![Profile views](https://gpvc.arturio.dev/shridoy1)  
 
 I work as a ~~web designer~~  front-end developer with UI/UX design skills (front-end designer). I'm based in Bangladesh. Skills, passion, determination & love for design. I also have a great interest in web design, and in creating a stunning and effective websites. I create pixel-perfect design solutions for businesses looking to improve their online brand strategy.
 
