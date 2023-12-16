@@ -1,16 +1,18 @@
 
 <!-- ![I'm a front-end designer, a front-end developer with UI/UX skills. ✨](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/270811461_605264330781387_2238344179079694140_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_ohc=sYs829o-Gd4AX8WpI5U&_nc_ht=scontent.fdac14-1.fna&oh=00_AT9S2Y33k6hzTcd3iuN8o6Tsn1z6UgLPdsNugpbI3LoD5Q&oe=61D6D66C) -->
-## Hi, I'm Sakibul Hasan 👋
+## 👋 Hello there! I'm Sakibul Hasan
 
 <p>
-👑 I am Web Designer <br>
+👑 I am a Web Designer <br>
 👨‍💻 And WordPress Developer <br>
 🖊️ Love to write code  
 </p>
 
-![Profile views](https://gpvc.arturio.dev/shridoy1)  
 
-I work as a ~~web designer~~  front-end developer with UI/UX design skills (front-end designer). I'm based in Bangladesh. Skills, passion, determination & love for design. I also have a great interest in web design, and in creating a stunning and effective websites. I create pixel-perfect design solutions for businesses looking to improve their online brand strategy.
+## 👨‍🏫 About Me
+I am a passionate full-time Android developer dedicated to crafting seamless mobile experiences.🚀 Currently, my playground is the Android ecosystem, where I thrive in turning innovative ideas into reality. Whether it's pushing the boundaries of UI/UX or diving deep into the intricacies of app architecture, I love the challenge of creating apps that not only meet user needs but exceed expectations.🔧 My toolbox includes Android Studio, Java, Kotlin, and a passion for staying ahead in the ever-evolving tech landscape. I enjoy the art of problem-solving and take pride in writing clean, maintainable code that stands the test of time. 
+
+🌐 Beyond the screen, I am an advocate for diversity in tech and believe in the transformative power of technology to make a positive impact on society. Let's connect, collaborate, and build something extraordinary together! 🚀
 
 ## 👨‍💻 Skills & Experiance:
 ✅ WordPress <br>
