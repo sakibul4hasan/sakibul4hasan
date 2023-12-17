@@ -21,6 +21,7 @@
 <a href="https://stackoverflow.com/users/user:21110024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21110024" height="30" width="40" /></a>
 <a href="https://codepen.io/sakibul_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sakibul_hasan" height="30" width="40" /></a>
 <a href="https://dribbble.com/sakibulhasan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sakibulhasan04" height="30" width="40" /></a>
+Email: **shakibul.contact@gmail.com**
 </p>
 
 
@@ -29,18 +30,12 @@
 
 
 ## 👋 Hello there! I'm Sakibul Hasan
-
-<p>
-👑 I am a Web Designer <br>
-👨‍💻 And WordPress Developer <br>
-🖊️ Love to write code  
-</p>
-
-
-<h2>👨‍🏫 About Me</h2> </p>
 I am a passionate full-time Android developer dedicated to crafting seamless mobile experiences.🚀 Currently, my playground is the Android ecosystem, where I thrive in turning innovative ideas into reality. Whether it's pushing the boundaries of UI/UX or diving deep into the intricacies of app architecture, I love the challenge of creating apps that not only meet user needs but exceed expectations.🔧 My toolbox includes Android Studio, Java, Kotlin, and a passion for staying ahead in the ever-evolving tech landscape. I enjoy the art of problem-solving and take pride in writing clean, maintainable code that stands the test of time. 
 
 🌐 Beyond the screen, I am an advocate for diversity in tech and believe in the transformative power of technology to make a positive impact on society. Let's connect, collaborate, and build something extraordinary together! 🚀
+
+
+
 
 
 
@@ -74,17 +69,17 @@ I am a passionate full-time Android developer dedicated to crafting seamless mob
 
 
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shridoy1&show_icons=true&locale=en&layout=compact" alt="shridoy1" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shridoy1&" alt="shridoy1" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shridoy1&show_icons=true&locale=en" alt="shridoy1" /></p>
+<p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shridoy1&" alt="shridoy1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shridoy1&show_icons=true&locale=en" alt="shridoy1" />
+</p>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shridoy1&label=Profile%20views&color=0e75b6&style=flat" alt="shridoy1" /> </p>
 
-- 📫 How to reach me **shakibul.contact@gmail.com**
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shridoy1&show_icons=true&locale=en&layout=compact" alt="shridoy1" />
+  <img src="https://komarev.com/ghpvc/?username=shridoy1&label=Profile%20views&color=0e75b6&style=flat" alt="shridoy1" />
+</p> <br>
+
+
