@@ -69,17 +69,10 @@ I am a passionate full-time Android developer dedicated to crafting seamless mob
 
 
 
-<p>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shridoy1&" alt="shridoy1" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shridoy1&show_icons=true&locale=en" alt="shridoy1" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shridoy1&show_icons=true&locale=en&layout=compact" alt="shridoy1" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shridoy1&show_icons=true&locale=en" alt="shridoy1" /></p>
 
-
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shridoy1&show_icons=true&locale=en&layout=compact" alt="shridoy1" />
-  <img src="https://komarev.com/ghpvc/?username=shridoy1&label=Profile%20views&color=0e75b6&style=flat" alt="shridoy1" />
-</p> <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shridoy1&" alt="shridoy1" /></p>
 
 
