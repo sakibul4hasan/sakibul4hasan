@@ -21,7 +21,7 @@
 <a href="https://stackoverflow.com/users/user:21110024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21110024" height="30" width="40" /></a>
 <a href="https://codepen.io/sakibul_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sakibul_hasan" height="30" width="40" /></a>
 <a href="https://dribbble.com/sakibulhasan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sakibulhasan04" height="30" width="40" /></a>
-Email: **shakibul.contact@gmail.com**
+Email: **shakibofficial04@gmail.com**
 </p>
 
 
