@@ -15,9 +15,7 @@
 <a href="https://fb.com/sakibulhasan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakibulhasan04" height="30" width="40" /></a>
 <a href="https://instagram.com/sh_hridoy4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sh_hridoy4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sakibulhasan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakibulhasan04" height="30" width="40" /></a>
-<a href="https://www.behance.net/sakibulhasan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sakibulhasan04" height="30" width="40" /></a>
 <a href="https://discord.gg/sakibulhasan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sakibulhasan04" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:21110024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21110024" height="30" width="40" /></a>
 <a href="https://codepen.io/sakibul_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sakibul_hasan" height="30" width="40" /></a>
 Email: **shakibofficial04@gmail.com**
 </p>
@@ -28,9 +26,7 @@ Email: **shakibofficial04@gmail.com**
 
 
 ## 👋 Hello there! I'm Sakibul Hasan
-I am a passionate full-time Android developer dedicated to crafting seamless mobile experiences.🚀 Currently, my playground is the Android ecosystem, where I thrive in turning innovative ideas into reality. Whether it's pushing the boundaries of UI/UX or diving deep into the intricacies of app architecture, I love the challenge of creating apps that not only meet user needs but exceed expectations.🔧 My toolbox includes Android Studio, Java, Kotlin, and a passion for staying ahead in the ever-evolving tech landscape. I enjoy the art of problem-solving and take pride in writing clean, maintainable code that stands the test of time. 
-
-🌐 Beyond the screen, I am an advocate for diversity in tech and believe in the transformative power of technology to make a positive impact on society. Let's connect, collaborate, and build something extraordinary together! 🚀
+As a passionate Android developer, I possess a natural talent for creating innovative and user-centric mobile applications. My tech journey commenced with a fervent dedication to problem-solving and a commitment to delivering seamless digital experiences. Proficient in both Java and Kotlin, I specialize in translating creative concepts into functional and visually appealing apps. My skill set extends across UI/UX design, API integration, and robust code architecture. With a commitment to staying at the forefront of emerging technologies, I bring a forward-thinking approach to each project. Let's collaborate to transform ideas into interactive realities and collectively enhance the digital landscape. Welcome to my realm of Android development excellence.
 
 
 
