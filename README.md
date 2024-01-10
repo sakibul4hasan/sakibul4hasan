@@ -15,8 +15,6 @@
 <a href="https://fb.com/sakibulhasan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakibulhasan04" height="30" width="40" /></a>
 <a href="https://instagram.com/sh_hridoy4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sh_hridoy4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sakibulhasan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakibulhasan04" height="30" width="40" /></a>
-<a href="https://discord.gg/sakibulhasan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sakibulhasan04" height="30" width="40" /></a>
-<a href="https://codepen.io/sakibul_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sakibul_hasan" height="30" width="40" /></a>
 Email: **shakibofficial04@gmail.com**
 </p>
 
