@@ -27,9 +27,9 @@ Email: **shakibofficial04@gmail.com**
 
 
 ## 👋 Hello there! I'm Sakibul Hasan
-I’m an Android Developer, passionate about building great apps. For me app development is not just about coding, it’s also about creating an awesome user experience.
+I’m an Android Developer, passionate about building great apps. For me app development is not just about coding, it’s also about creating an awesome user experience. 5+ years of experience developing and maintaining mobile applications. Possesses expertise in developing mobile applications with Java, Kotlin, and XML, as well as knowledge of popular libraries and frameworks. Experienced in creating and integrating user interfaces, databases, and RESTful APIs to create efficient and secure applications.
 
-- 💬 Ask me about **Android, Java, Kotlin, Problem Solving**
+- 💬 Ask me about **Android, Java, Kotlin, Problem-Solving**
 
 
 
